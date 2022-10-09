@@ -1,0 +1,17 @@
+node_modules
+# Keep environment variables out of version control
+.env
+.config
+.dist
+.yarn-error.lock
+.tsconfig.tsbuildinfo
+
+./config
+./dist
+./yarn-error.lock
+./tsconfig.tsbuildinfo
+
+config
+dist
+yarn-error.lock
+tsconfig.tsbuildinfo
